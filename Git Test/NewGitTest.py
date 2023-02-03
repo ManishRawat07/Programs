@@ -6,5 +6,8 @@ def new_features(y):
     print("my new features is to display message")
     print(y)
 
-test_fun_git(1)
-new_features("This is commit")
+#test_fun_git(1)
+new_features("This is first commit")
+
+new_features("This is second commit")
+
